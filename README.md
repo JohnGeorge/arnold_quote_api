@@ -10,13 +10,26 @@ mongoose.connect('<your MongoDB URI>');
 ```
 ###How to start?
 Now that we have set up our database it's time to start the API.
-1. First make sure that you have NodeJS installed on your computer, if not do that first.
+First make sure that you have NodeJS installed on your computer, if not do that first.
 
-2. Then run these simple commands in your terminal to install the packages used for the project.
+Then run this simple command in your terminal to install the packages needed for the project.
 ```
 npm install
 ```
-3. Now that we have our packages we start the API by running this command in the terminal.
+Now that we have our packages we start the API by running this command in the terminal.
 ```
 npm start
+```
+There is now a server on localhost:8080 running the API.
+
+###Endpoints.
+GET /quotes
+Returns the whole database of quotes.
+```
+GET http://localhost:8080/quotes
+```
+GET /quotes/:id
+Returns the quote assigned to the ID specified. There is a total of a 100 quotes.
+```
+GET http://localhost:8080/quote/56
 ```
