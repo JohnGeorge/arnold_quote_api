@@ -28,12 +28,12 @@ Returns the whole database of quotes.
 ```
 GET http://localhost:8080/quotes
 ```
-#####GET /quotes/:id .
+####GET /quotes/:id .
 Returns the quote assigned to the ID specified. There is a total of a 100 quotes.
 ```
 GET http://localhost:8080/quote/56
 ```
-#####POST /quote
+####POST /quote
 To POST make sure the body is url encoded valid json.
 ```javascript
     "_id": 1,
@@ -47,7 +47,7 @@ To POST make sure the body is url encoded valid json.
 This works similar to POST with the difference that you apply and already existing _id rather than a new one.
 This is perfect if you want to make changes to an already posted quote.
 
-#####DELETE /quote/:id
+####DELETE /quote/:id
 This completely removes the quote with the specified _id.
 
 ###License
