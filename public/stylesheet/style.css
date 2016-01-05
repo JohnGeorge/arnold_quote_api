@@ -1,0 +1,59 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+body a:visited{
+  color: black;
+}
+h1{
+  font-style: italic;
+  font-weight: 100;
+}
+.quote{
+  font-size: 30px;
+  font-style: italic;
+  width: 600px;
+  margin: 0 auto 0 auto;
+}
+.character{
+  font-size: 25px;
+}
+#api_info{
+  font-size: 14px;
+  margin-top: 100px;
+  font-family: 'Raleway', sans-serif;
+}
+#api_info a{
+  color: #000;
+}
+#wrapper{
+
+  margin: 40 auto 30 auto;
+  text-align: center;
+  width: 500px;
+}
+#wrapper a{
+  color: black;
+}
+#foot{
+  margin-top: 150px;
+}
+.back{
+  font-size: 15px;
+  margin-top: 60px;
+}
+.back a{
+  color: black;
+}
+.code{
+  display: block;
+  background-color: lightgrey;
+  width:300px;
+  height: 35px;
+  padding-top: 20px;
+  border: 1px solid darkgrey;
+  border-radius: 1px;
+  margin: 0 auto 0 auto;
+
+}

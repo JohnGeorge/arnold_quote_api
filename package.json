@@ -1,0 +1,25 @@
+{
+  "name": "arnold_quotes_api",
+  "description": "arnold schwarzenegger movie quotes",
+  "main": "server.js",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "keywords": [
+    "arnold",
+    "schwarzenegger",
+    "quotes"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://#readme",
+  "dependencies": {
+    "express": "~4.13.1",
+    "mongoose": "~4.3.4",
+    "socket.io": "~1.3.7",
+    "body-parser": "~1.14.2"
+  }
+}

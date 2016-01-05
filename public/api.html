@@ -1,0 +1,32 @@
+<!doctype hmtl>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <link href="stylesheet/style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>ARNOLD QUOTES API</h1>
+    <div id="wrapper">
+      <article>
+        This is a RESTful API built on the CRUD principals.<br>
+        Therefore this API supports GET, POST, PUT and DELETE.<br>
+        Altough the information here only shows and supports GET, <br>should you want to use the API
+        yourself, feel free to download the project on <a href="#">Github.</a>
+        You only need to set up your own MongoDB (So you don't mess up mine!),
+        so you can GET, POST, PUT and DELETE as much as you want.
+        The complete database will be avalible in the project folder in JSON format for insertion in your database.<br>
+        All GET requests return a JSON-file.
+      </article>
+    </div>
+    <p>For the complete database of quotes.</p>
+    <pre><code class="code">GET /api/quotes</code></pre>
+    <p>For only one quote, apply the quote id, which is between 1 - 100</p>
+    <pre><code class="code">GET /api/quote/:id</code></pre>
+    <div class="back">
+      <a href="index.html">back</a>
+    </div>
+    <p id="foot">2016</p>
+  </body>
+</html>

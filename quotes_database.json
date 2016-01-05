@@ -1,0 +1,700 @@
+{
+    "_id": 1,
+    "quote": " \"I'll be back.\"",
+    "movie": "The Terminator",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 2,
+    "quote": "\"Have you ever killed anyone?\" \"Yes, but they were all bad!\" ",
+    "movie": "True Lies",
+    "character": "Harry Tasker",
+    "__v": 0
+  },
+  {
+    "_id": 3,
+    "quote": "\"Are you Sarah Conner?\"",
+    "movie": "Terminator",
+    "character": "The Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 4,
+    "quote": "\"I live to see you eat that contract! But I hope you leave enough room for my fist, because I'm going to ram it into your stomach and break your goddamn spine!\"",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 5,
+    "quote": " \"See you at the party, Richter!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 6,
+    "quote": "\"You are one ugly motherfucker.\"",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 7,
+    "quote": "\"Hasta la vista, baby.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 8,
+    "quote": "\"Remember, Sully, when I promised to kill you last?\" \"That's right, Matrix! You did!\" \"I LIED!\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 9,
+    "quote": " \"Fuck you, asshole.\"",
+    "movie": "The Terminator",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 10,
+    "quote": " \"Get your ass to Mars.\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 11,
+    "quote": "\"Oh, you think you're bad, huh? You're a fucking choir boy compared to me! A choir boy!!\"",
+    "movie": "End of Days",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 12,
+    "quote": "\"No, it's not a tumor. It's not a tumor!\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 13,
+    "quote": "\"I need your clothes, your boots and your motorcycle.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 14,
+    "quote": "\"Consider this a divorce!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 15,
+    "quote": " \"Conan, what is best in life?\" \"To crush your enemies, see them driven before you, and to hear the lamentation of the women!\"",
+    "movie": "Conan the Barbarian",
+    "character": "Conan",
+    "__v": 0
+  },
+  {
+    "_id": 16,
+    "quote": " \"Get to the chopper!!\"",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 17,
+    "quote": "\"I promise not to kill anyone.\" / \"He'll live.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 18,
+    "quote": "\"Milk are for babies, when you get older you drink beer.\"",
+    "movie": "Pumping Iron",
+    "character": "Arnold Schwarzenegger",
+    "__v": 0
+  },
+  {
+    "_id": 19,
+    "quote": "\"First I'm gonna use you as a human shield, then I'm gonna take that chisel and kill the guard with it. Then I was thinking about breaking your neck.\"",
+    "movie": "True Lies",
+    "character": "Harry Tasker",
+    "__v": 0
+  },
+  {
+    "_id": 20,
+    "quote": "\"You want to be a farmer? Here's a couple of acres!\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 21,
+    "quote": "\"It's called the Miranda act.. it says you can't even touch his ass.\" \"I do not want to touch his ass.. I want to make him talk!\"",
+    "movie": "Red Heat",
+    "character": "Ivan Danko",
+    "__v": 0
+  },
+  {
+    "_id": 22,
+    "quote": "\"You bastard! Drop dead!\" \"I don't do requests.\" ",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 23,
+    "quote": "\"What the hell did you do to him?!\" \"I did nothing. The pavement was his enemy.\"",
+    "movie": "Twins",
+    "character": "Julius Benedict",
+    "__v": 0
+  },
+  {
+    "_id": 24,
+    "quote": "\"Stick around!\" ",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 25,
+    "quote": "\"What have you been feeding this thing?\" \"Blondes!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 26,
+    "quote": "\"I'm pregnant.\" ",
+    "movie": "Junior",
+    "character": "Dr. Alex hesse",
+    "__v": 0
+  },
+  {
+    "_id": 27,
+    "quote": " \"Nice night for a walk.\"",
+    "movie": "The Terminator",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 28,
+    "quote": "\"Where's Sully?\" \"I let him go.\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 29,
+    "quote": "\"Iced that guy!\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 30,
+    "quote": "\"Honey, you shouldn't drink and bake.\"",
+    "movie": "Raw Deal",
+    "character": "Mark Kaminsky",
+    "__v": 0
+  },
+  {
+    "_id": 31,
+    "quote": "\"Chill-out dickwad.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 32,
+    "quote": "\"You scared mutha fucka! This green beret is going to kick your ass!\" \"I eat green berets for breakfast...and I am very hungry!\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 33,
+    "quote": "\"I love you too, sweetheart.\" (In Sarah's mom's voice)",
+    "movie": "The Terminator",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 34,
+    "quote": "\"You should clone yourself while your still alive.\" \"So I can understand your unique perspective?\" \"No. So you can go fuck yourself!\"",
+    "movie": "The 6th Day",
+    "character": "Adam Gibson",
+    "__v": 0
+  },
+  {
+    "_id": 36,
+    "quote": "\"Let off some steam, Bennett!\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 35,
+    "quote": "\"You'd let me die here?\" \"No. That's the last thing that will happen to you. First, the air's gonna heat up in here to 451 degrees. than your pass will explode like a Roman candle, your socks will ignite, and your fingernails will melt.\"",
+    "movie": "Collateral Damage",
+    "character": "Gordy Brewer",
+    "__v": 0
+  },
+  {
+    "_id": 37,
+    "quote": "\"A freeze is coming!\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 38,
+    "quote": "\"Between your faith and my Glock nine millimeter, I'll take the Glock.\"",
+    "movie": "End of Days",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 39,
+    "quote": "\"Crom. I have never prayed to you before. I have no tongue for it. No one, not even you will remember if we were good men or bad. Why we fought and why we died. No, all that matter's is that two stood against many. That's what is important. Battle pleases you Crom. Grant me one request, grant me REVENGE. And if you do not listen, then to HELL with you!\"",
+    "movie": "Conan the Barbarian",
+    "character": "Conan",
+    "__v": 0
+  },
+  {
+    "_id": 40,
+    "quote": "\"Don't disturb my friend... he's dead tired.\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 41,
+    "quote": " \"What happened to Buzzsaw?\" \"Ahhh.. he had to split.\"",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 42,
+    "quote": "\"Come on Cohagen. You got what you want. Give these people air!!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 43,
+    "quote": "\"First I will turn Gotham into an icy graveyard. Then I will pull Batman's heart from his body and feel it freeze in my hand.\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 44,
+    "quote": "\"Fuck YOU, asshole!\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 45,
+    "quote": "\"Bucks? Doe? What is all this zoological talk about male and female animals?\"",
+    "movie": "Hercules in New York",
+    "character": "Hercules",
+    "__v": 0
+  },
+  {
+    "_id": 46,
+    "quote": "\"Uplinks on the ground. Uplinks underground. You guys don't shut up, I'm going to uplink your ass... you'll be on the ground!\"",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 47,
+    "quote": "\"They say breakfast is the most important meal of the day.\"",
+    "movie": "End of Days",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 48,
+    "quote": "\"The bridge is out!!!\"",
+    "movie": "True Lies",
+    "character": "Harry Tasker",
+    "__v": 0
+  },
+  {
+    "_id": 49,
+    "quote": "\"Don't break radio silence until they see me.\" \"How will I know?\" \"Because all fucking hell is going to break loose.\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 50,
+    "quote": "\"Snakes?! DID YOU SAY SNAKES?!\"",
+    "movie": "Conan the Barbarian",
+    "character": "Conan",
+    "__v": 0
+  },
+  {
+    "_id": 51,
+    "quote": "\"Hey Claudius! You killed my father. Big mistake.\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 52,
+    "quote": " \"You think you're funny, don't you?\" \"I know who I am. I'm the famous comedian, Arnold Braunschweiger.\" \"Schwarzenegger!\" \"Gesundheit.\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 53,
+    "quote": "\"Stop whining! You kids are soft. You lack discipline.\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 54,
+    "quote": "\"You gotta be shitting me!\" \"No. I am not shitting you.\"",
+    "movie": "Red Heat",
+    "character": "Ivan Danko",
+    "__v": 0
+  },
+  {
+    "_id": 55,
+    "quote": "\"You gotta be shitting me!\" \"No. I am not shitting you.\"",
+    "movie": "Terminator 3: Rise of the Machines",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 56,
+    "quote": "\"You're not sending me to the Cooler!\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 57,
+    "quote": "\"What the hell are you?\"",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 58,
+    "quote": "\"What's the difference between you and I?\" \"The difference is, I'm just gonna kill you.\"",
+    "movie": "Collateral Damage",
+    "character": "Gordy Brewer",
+    "__v": 0
+  },
+  {
+    "_id": 59,
+    "quote": "\"Come with me if you want to live.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 60,
+    "quote": "\"We had a difference of opinion. I thought my wife and daughter should live. He felt otherwise.\"",
+    "movie": "End of Day",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 61,
+    "quote": "\"If revenge is a dish best served cold... then put on your Sunday's finest, it's time to feast!\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 62,
+    "quote": "\"It's as satisfying to me as, uh, coming is, you know? As, ah, having sex with a woman and coming. And so can you believe how much I am in heaven? I am like, uh, getting the feeling of coming in a gym, I'm getting the feeling of coming at home, I'm getting the feeling of coming backstage when I pump up, when I pose in front of 5,000 people, I get the same feeling, so I am coming day and night. I mean, it's terrific. Right? So you know, I am in heaven.\"",
+    "movie": "Pumping Iron",
+    "character": "Arnold Schwarzenegger",
+    "__v": 0
+  },
+  {
+    "_id": 63,
+    "quote": "\"Chinese find way. Right after revolution, they round up all drug dealers, all drug addicts, take them to public square, and shoot them in back of head.\"",
+    "movie": "Red Heat",
+    "character": "Ivan Danko",
+    "__v": 0
+  },
+  {
+    "_id": 64,
+    "quote": "\"I suppose nothing hurts you.\" \"Only pain.\"",
+    "movie": "Conan the Destroyer",
+    "character": "Conan",
+    "__v": 0
+  },
+  {
+    "_id": 65,
+    "quote": "\"When I said you should screw yourself. I didn't mean it literally.\"",
+    "movie": "The 6th Day",
+    "character": "Adam Gibson",
+    "__v": 0
+  },
+  {
+    "_id": 66,
+    "quote": "\"So who are you man?\" \"I'm the party pooper.\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 67,
+    "quote": "\"What happened?\" \"They caught a train.\"",
+    "movie": "Eraser",
+    "character": "John Kruger",
+    "__v": 0
+  },
+  {
+    "_id": 68,
+    "quote": "\"The CIA got you pushing too many pencils?\" \"So you cooked up a story and dropped the six of us inta a meat grinder.\"",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 69,
+    "quote": "\"Benny!! Screw you!!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 70,
+    "quote": "\"This isn't a plane, this is a canoe with wings!\" \"Then get in and start paddling.\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 71,
+    "quote": "\"No more complaining. No more 'Mr. Kimble, I have to go the bathroom'. Nothing! There is no bathroom!\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 72,
+    "quote": "\"We'll take Cooke's car. He won't be needing it.\" ",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 73,
+    "quote": " \"To be, or not to be.\" \"Not to be.\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 74,
+    "quote": "\"I know now why you cry, but it's something I can never do.\"",
+    "movie": "Terminator 2: Judgement Day",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 75,
+    "quote": "\"So the prince of darkness wants to conquer earth. He has to do it one hour before midnight. Is this eastern time?\" ",
+    "movie": "End of Days",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 76,
+    "quote": " \"Killian! Here's your Subzero! Now....plain zero!\"",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 77,
+    "quote": "\"When I die I will have to go before him. And he will ask me 'What is the riddle of steel?' And if I don't know he will cast me out of Valhalla and laugh at me! That's Crom! Strong on his mountain!\"",
+    "movie": "Conan the Barbarian",
+    "character": "Conan",
+    "__v": 0
+  },
+  {
+    "_id": 78,
+    "quote": "\"Hey buddy you want a Turbo Man doll?\" \"Forget it, I'm not gonna sit on YOUR lap.\"",
+    "movie": "Jingle All The Way",
+    "character": "Howard Langston",
+    "__v": 0
+  },
+  {
+    "_id": 79,
+    "quote": "\"If it bleeds, we can kill it.\"",
+    "movie": "Predator",
+    "character": "Dutch Schaeffer",
+    "__v": 0
+  },
+  {
+    "_id": 80,
+    "quote": "\"Leave anything for us?\" \"Just bodies.\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 81,
+    "quote": "\"Are these all your lunches? You mean you eat other peoples' lunches? STOP IT!!\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 82,
+    "quote": "\"How do you Soviets deal with stress?\" \"Vodka\"",
+    "movie": "Red Heat",
+    "character": "Ivan Danko",
+    "__v": 0
+  },
+  {
+    "_id": 83,
+    "quote": "\"You're luggage!\"",
+    "movie": "Eraser",
+    "character": "John Kruger",
+    "__v": 0
+  },
+  {
+    "_id": 84,
+    "quote": "\"Capitalism!\"",
+    "movie": "Red Heat",
+    "character": "Ivan Danko",
+    "__v": 0
+  },
+  {
+    "_id": 85,
+    "quote": "\"They even think I'm your girlfriend.\" \"Well we can straighten that out.. see this camera up there.. I can strangle you for the home audience.",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 86,
+    "quote": "\"Surprise, I'm your new cellmate. And I've come to make your life a living hell. Prepare for a bitter harvest. Winter... has come at last.\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 87,
+    "quote": "\"Your levity is good, it relieves tension and the fear of death.\"",
+    "movie": "Terminator 3: Rise of the Machines",
+    "character": "Terminator",
+    "__v": 0
+  },
+  {
+    "_id": 88,
+    "quote": "\"They're six year olds... how much trouble can they be?\"",
+    "movie": "Kindergarten Cop",
+    "character": "John Kimble",
+    "__v": 0
+  },
+  {
+    "_id": 89,
+    "quote": "\"That's for sleeping with my wife!\"",
+    "movie": "The 6th Day",
+    "character": "Adam Gibson",
+    "__v": 0
+  },
+  {
+    "_id": 90,
+    "quote": "\"If you drop your gun now, I promise I won't kill you.\"",
+    "movie": "Eraser",
+    "character": "John Kruger",
+    "__v": 0
+  },
+  {
+    "_id": 91,
+    "quote": "\"What killed the dinosaurs? The Ice Age!\"",
+    "movie": "Batman & Robin",
+    "character": "Mr. Freeze",
+    "__v": 0
+  },
+  {
+    "_id": 92,
+    "quote": "\"I'm going to throw up all over you.\" \"Go ahead... won't show on this shirt.\"",
+    "movie": "The Running Man",
+    "character": "Ben Richards",
+    "__v": 0
+  },
+  {
+    "_id": 93,
+    "quote": "\"You've seen those movies where they say \"Make my day.\" or \"I'm your worst nightmare.\", well listen to this one. Rubber Baby Buggy Bumpers!\"",
+    "movie": "Last Action Hero",
+    "character": "Jack Slater",
+    "__v": 0
+  },
+  {
+    "_id": 94,
+    "quote": "\"Can you hurry up. My horse is getting tired.\"",
+    "movie": "True Lies",
+    "character": "Harry Tasker",
+    "__v": 0
+  },
+  {
+    "_id": 95,
+    "quote": "\"My name is Julius and I'm your TWIN brother.\" \"Oh obviously! The moment I sat down I though I was looking into a mirror.\" \"We're not identical twins.\"",
+    "movie": "Twins",
+    "character": "Julius Benedict",
+    "__v": 0
+  },
+  {
+    "_id": 96,
+    "quote": "\"Why don't they just call him Girl George?\"",
+    "movie": "Commando",
+    "character": "John Matrix",
+    "__v": 0
+  },
+  {
+    "_id": 97,
+    "quote": "\"If you yield only to a conqueror, then prepared to be conquered.\"",
+    "movie": "Red Sonja",
+    "character": "Kalidor",
+    "__v": 0
+  },
+  {
+    "_id": 98,
+    "quote": "\"I've seen a lot, but nothing would ever make me cut out my tongue.\"",
+    "movie": "End of Days",
+    "character": "Jericho Cane",
+    "__v": 0
+  },
+  {
+    "_id": 99,
+    "quote": "\"Someone you trust wants to talk to you.\" \"Who is it this time, my Mother?!\"",
+    "movie": "Total Recall",
+    "character": "Douglas Quaid",
+    "__v": 0
+  },
+  {
+    "_id": 100,
+    "quote": "\"Oh, cookies! I can't wait to toss them.\"",
+    "movie": "Twins",
+    "character": "Julius Benedict",
+    "__v": 0
+  }
