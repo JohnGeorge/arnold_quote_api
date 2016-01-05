@@ -12,7 +12,7 @@ mongoose.connect('<your MongoDB URI>');
 Now that we have set up our database it's time to start the API.
 First make sure that you have NodeJS installed on your computer, if not do that first.
 
-Then run this simple command in your terminal to install the packages needed for the project.
+Then from the root folder of the project run this simple command in your terminal to install the packages needed for the project.
 ```
 npm install
 ```
