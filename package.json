@@ -5,7 +5,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/JohnGeorge/arnold_quote_api"
   },
   "keywords": [
     "arnold",
@@ -13,9 +13,9 @@
     "quotes"
   ],
   "bugs": {
-    "url": ""
+    "url": "https://github.com/JohnGeorge/arnold_quote_api/issues"
   },
-  "homepage": "https://#readme",
+  "homepage": "https://github.com/JohnGeorge/arnold_quote_api/blob/master/README.md",
   "dependencies": {
     "express": "~4.13.1",
     "mongoose": "~4.3.4",
