@@ -53,9 +53,8 @@ This completely removes the quote with the specified _id.
 
 ###Example
 This site provides a small exmaple of what can be achieved with this RESTful API.
-```
-http://arnoldquotes-57302.onmodulus.net/
-```
+
+[http://arnoldquotes-57302.onmodulus.net](http://arnoldquotes-57302.onmodulus.net)
 
 ###License
 MIT
