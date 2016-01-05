@@ -36,6 +36,7 @@ GET http://localhost:8080/quote/56
 ####POST /quote
 To POST make sure the body is url encoded valid json.
 ```javascript
+{
     "_id": 1,
     "quote": " \"I'll be back.\"",
     "movie": "The Terminator",
