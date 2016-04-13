@@ -30,7 +30,7 @@ This will set the running environment to development and test test all endpoints
 ```
 npm test
 ```
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](./img.png)
 
 ###Endpoints.
 ####GET /quotes
