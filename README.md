@@ -22,26 +22,34 @@ npm start
 ```
 There is now a server on localhost:8080 running the API.
 
+This will set the running environment to development disconnecting from main database and connecting to test database.
+```
+npm run dev
+```
+
+This will set the running environment to development and test test all endpoints.
+```
+npm test
+```
+
 ###Endpoints.
 ####GET /quotes
 Returns the whole database of quotes.
 ```
-GET http://localhost:8080/quotes
+GET /quotes
 ```
 ####GET /quotes/:id .
 Returns the quote assigned to the ID specified. There is a total of a 100 quotes.
 ```
-GET http://localhost:8080/quote/56
+GET /quote/56
 ```
 ####POST /quote
-To POST make sure the body is url encoded valid json.
+Request body example, all fields are required.
 ```javascript
 {
-    "_id": 1,
     "quote": " \"I'll be back.\"",
     "movie": "The Terminator",
     "character": "Terminator",
-    "__v": 0
   }
 ```
 ####PUT /quote/:id
@@ -58,4 +66,3 @@ This site provides a small example of what can be achieved with this RESTful API
 
 ###License
 MIT
-
