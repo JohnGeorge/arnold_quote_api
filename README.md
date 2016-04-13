@@ -30,7 +30,7 @@ This will set the running environment to development and test test all endpoints
 ```
 npm test
 ```
-![alt tag](./img.png)
+![alt tag](./test.png)
 
 ###Endpoints.
 ####GET /quotes
