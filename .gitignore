@@ -1,1 +1,39 @@
-/node_modules
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Development environment variables
+.env
+
+# public html files
+public
+
+# ds_store
+.DS_Store
+
+# all zip files
+*.zip
+
+# JavaScript lint config
+*.eslintrc
