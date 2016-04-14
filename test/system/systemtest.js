@@ -104,7 +104,7 @@ describe('Testing all quote endpoints', function() {
       });
   });
 
-  it.skip('Should return successful response for PUT/api/quote/:id', function(done) {
+  it('Should return successful response for PUT/api/quote/:id', function(done) {
     request(app)
       .put('/api/quote/1')
       .expect(200)

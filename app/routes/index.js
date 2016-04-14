@@ -30,7 +30,7 @@ router.get('/quote/:id', function(req, res) {
           message: 'You are trying to access a quote that does not exist in database'
         });
       } else {
-        Quote.findById(req.params.id)
+        return Quote.findById(req.params.id)
           .execAsync()
           .then(function(quote) {
             res.json(quote);
@@ -55,7 +55,7 @@ router.post('/quote', validateQuote.request, function(req, res) {
         movie: req.validBody.movie,
         character: req.validBody.character
       });
-      quote.save(function(err) {
+      return quote.saveAsync(function(err) {
         if (err) {
           res.send(err);
         }
@@ -80,14 +80,14 @@ router.put('/quote/:id', validateQuote.request, function(req, res) {
           message: 'Your are trying to update a quote that does not exist in database'
         });
       } else {
-        Quote.findById(req.params.id)
+        return Quote.findById(req.params.id)
           .execAsync()
           .then(function(quote) {
             quote.quote = req.validBody.quote;
             quote.movie = req.validBody.movie;
             quote.character = req.validBody.character;
 
-            quote.save(function(err) {
+            return quote.saveAsync(function(err) {
               if (err) {
                 res.send(err);
               }
@@ -116,7 +116,7 @@ router.delete('/quote/:id', function(req, res) {
           message: 'You are trying to delete a quote that does not exist in database'
         });
       } else {
-        Quote.remove({
+        return Quote.remove({
             _id: req.params.id
           },
           function(err) {
