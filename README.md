@@ -21,6 +21,8 @@ npm start
 ```
 There is now a server on localhost:8080 running the API.
 
+
+
 This will set the running environment to development disconnecting from main database and connecting to test database.
 ```
 npm run dev
@@ -30,6 +32,7 @@ This will set the running environment to development and test test all endpoints
 ```
 npm test
 ```
+
 ![alt tag](./test.png)
 
 ###Endpoints.
@@ -49,7 +52,7 @@ Request body example, all fields are required.
 {
     "quote": " \"I'll be back.\"",
     "movie": "The Terminator",
-    "character": "Terminator",
+    "character": "Terminator"
   }
 ```
 ####PUT /quote/:id
