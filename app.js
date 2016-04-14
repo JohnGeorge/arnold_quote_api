@@ -52,9 +52,9 @@ socketIo.init(io);
 //Start server.
 http.listen(port, function() {
   if (process.env.NODE_ENV === undefined) {
-    console.log('Server access on localhost:8080');
+    console.log('Server access on localhost:' + port);
   } else {
-    console.log('Server running in development mode PORT 8080');
+    console.log('Server running in development mode PORT ' + port);
   }
 });
 

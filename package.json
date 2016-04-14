@@ -28,8 +28,9 @@
   "scripts": {
     "start": "node app.js",
     "test": "NODE_ENV=development mocha --recursive test --timeout 3000",
-    "nodemon": "nodemon server.js",
-    "dev": "node-dev app"
+    "dev": "node-dev app",
+    "debug": "open http://localhost:3000 & open http://localhost:8080/debug?port=5858",
+    "postdebug": "node-inspector & node --debug app"
   },
   "devDependencies": {
     "chai": "^3.5.0",
