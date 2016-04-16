@@ -37,12 +37,6 @@ var port = process.env.PORT || 8080;
 //Set our static directory.
 app.use(express.static('public'));
 
-//Do logging when the API is being requested.
-app.use(function(req, res, next) {
-  //console.log('/' + req.method + ' request being made to api');
-  next();
-});
-
 //all our routes will be prefixed with /api
 app.use('/api', router);
 

@@ -12,7 +12,6 @@ socketIo.init = function(socketIo) {
       .then(function(quotes) {
         var q = JSON.stringify(quotes);
         socket.emit('data', q);
-        //console.log('socket connection');
       }).catch(function(err) {
         send(err);
       });
