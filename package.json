@@ -26,7 +26,7 @@
     "socket.io": "~1.3.7"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "grunt & node app.js",
     "test": "NODE_ENV=development mocha --recursive test --timeout 3000",
     "dev": "node-dev app",
     "debug": "open http://localhost:3000 & open http://localhost:8080/debug?port=5858",
