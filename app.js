@@ -45,7 +45,7 @@ socketIo.init(io);
 
 //Start server.
 http.listen(port, function() {
-  if (process.env.NODE_ENV === undefined) {
+  if (mode === undefined) {
     console.log('Server access on localhost:' + port);
   } else {
     console.log('Server running in development mode PORT ' + port);
