@@ -1,4 +1,3 @@
-require('dotenv').config();
 var request = require('supertest');
 var app = require('../../app');
 var chai = require('chai');
