@@ -1,4 +1,6 @@
 #Arnold Schwarzenegger movie quote API
+[![Build Status](https://travis-ci.org/JohnGeorge/arnold_quote_api.svg?branch=v2.1.1)](https://travis-ci.org/JohnGeorge/arnold_quote_api)
+
 
 RESTful API web service that delivers Arnold Schwarzenegger movie quotes, written in NodeJS using the Express framework.
 
